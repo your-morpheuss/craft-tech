@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" >
+ <defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142D88"/><stop offset=".40" stop-color="#087DDF"/><stop offset=".76" stop-color="#16DEEE"/><stop offset="1" stop-color="#1470CF"/></linearGradient>
+ <linearGradient id="h" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#0A1638"/><stop offset=".52" stop-color="#1457BE"/><stop offset="1" stop-color="#67F9EF"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152A4E"/><stop offset="1" stop-color="#071325"/></linearGradient>
+ <linearGradient id="whitegrad" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F6FCFF"/><stop offset="1" stop-color="#BACDE5"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1188FC" stop-opacity=".35"/><stop offset=".48" stop-color="#1366D8" stop-opacity=".11"/><stop offset="1" stop-color="#0B1531" stop-opacity="0"/></radialGradient>
+ <radialGradient id="halocyan"><stop stop-color="#1CE7E9" stop-opacity=".22"/><stop offset="1" stop-color="#1CE7E9" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M 45 0 L 0 0 0 45" fill="none" stroke="#9EC7FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#90D6FF" opacity=".28"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12"/></filter>
+ 
+ </defs>
+ <ellipse cx="450" cy="430" rx="350" ry="350" fill="url(#halo)"/>
+<circle cx="450" cy="430" r="290" stroke="#3986F8" stroke-width="1" stroke-opacity=".36"/>
+<circle cx="450" cy="430" r="225" stroke="#42DDF0" stroke-width="1" stroke-opacity=".23"/>
+<circle cx="450" cy="430" r="153" stroke="#58C2F2" stroke-width="1.5" stroke-opacity=".52" stroke-dasharray="3 12"/>
+<path d="M450 140A290 290 0 0 1 725 343" stroke="url(#g)" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path d="M163 390A290 290 0 0 0 370 709" stroke="url(#h)" stroke-width="7" stroke-linecap="round" fill="none"/>
+<path d="M295 440L400 338L477 400L610 259" stroke="url(#g)" stroke-width="12" fill="none" stroke-linecap="square"/>
+<circle cx="725" cy="343" r="12" fill="#62F4F2"/><circle cx="165" cy="390" r="6" fill="#2776FB"/>
+<text x="284" y="790" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.3" fill="#91B7DC" >CREATIVE  /  ENGINEERING</text>
+ </svg>

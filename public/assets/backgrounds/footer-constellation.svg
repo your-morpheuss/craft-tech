@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" >
+ <defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142D88"/><stop offset=".40" stop-color="#087DDF"/><stop offset=".76" stop-color="#16DEEE"/><stop offset="1" stop-color="#1470CF"/></linearGradient>
+ <linearGradient id="h" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#0A1638"/><stop offset=".52" stop-color="#1457BE"/><stop offset="1" stop-color="#67F9EF"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152A4E"/><stop offset="1" stop-color="#071325"/></linearGradient>
+ <linearGradient id="whitegrad" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F6FCFF"/><stop offset="1" stop-color="#BACDE5"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1188FC" stop-opacity=".35"/><stop offset=".48" stop-color="#1366D8" stop-opacity=".11"/><stop offset="1" stop-color="#0B1531" stop-opacity="0"/></radialGradient>
+ <radialGradient id="halocyan"><stop stop-color="#1CE7E9" stop-opacity=".22"/><stop offset="1" stop-color="#1CE7E9" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M 45 0 L 0 0 0 45" fill="none" stroke="#9EC7FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#90D6FF" opacity=".28"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12"/></filter>
+ 
+ </defs>
+ <rect width="1600" height="700" fill="#07101E"/><rect width="1600" height="700" fill="url(#grid)" opacity=".7"/><ellipse cx="800" cy="700" rx="650" ry="370" fill="url(#halo)"/><path d="M0 100H1600M0 590H1600" stroke="#42608A" stroke-opacity=".35"/><path d="M260 530L455 335L684 390L920 202L1160 350L1350 170" fill="none" stroke="#239FD3" stroke-opacity=".32" stroke-width="1.5"/><g fill="#3FCFEE"><circle cx="260" cy="530" r="4"/><circle cx="455" cy="335" r="4"/><circle cx="684" cy="390" r="4"/><circle cx="920" cy="202" r="4"/><circle cx="1160" cy="350" r="4"/><circle cx="1350" cy="170" r="4"/></g><circle cx="800" cy="310" r="280" stroke="#1DD7EB" opacity=".09"/><circle cx="800" cy="310" r="190" stroke="#1DD7EB" opacity=".09"/>
+ </svg>

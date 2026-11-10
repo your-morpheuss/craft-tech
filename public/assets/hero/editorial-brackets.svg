@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="860" viewBox="0 0 1280 860" role="img" >
+ <defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142D88"/><stop offset=".40" stop-color="#087DDF"/><stop offset=".76" stop-color="#16DEEE"/><stop offset="1" stop-color="#1470CF"/></linearGradient>
+ <linearGradient id="h" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#0A1638"/><stop offset=".52" stop-color="#1457BE"/><stop offset="1" stop-color="#67F9EF"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152A4E"/><stop offset="1" stop-color="#071325"/></linearGradient>
+ <linearGradient id="whitegrad" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F6FCFF"/><stop offset="1" stop-color="#BACDE5"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1188FC" stop-opacity=".35"/><stop offset=".48" stop-color="#1366D8" stop-opacity=".11"/><stop offset="1" stop-color="#0B1531" stop-opacity="0"/></radialGradient>
+ <radialGradient id="halocyan"><stop stop-color="#1CE7E9" stop-opacity=".22"/><stop offset="1" stop-color="#1CE7E9" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M 45 0 L 0 0 0 45" fill="none" stroke="#9EC7FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#90D6FF" opacity=".28"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12"/></filter>
+ 
+ </defs>
+ <path d="M130 160H265V192 M1150 160H1015V192 M130 700H265V670 M1150 700H1015V670" fill="none" stroke="#1DD7EB" stroke-width="2" opacity=".65"/>
+<path d="M130 430H1150 M640 160V700" stroke="#7BA7D6" opacity=".18" stroke-dasharray="3 9"/>
+<circle cx="640" cy="430" r="195" fill="none" stroke="#248ED5" stroke-opacity=".18"/>
+<text x="150" y="155" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.5" fill="#1C82CE" >DESIGN / BUILD / SCALE</text>
+ </svg>

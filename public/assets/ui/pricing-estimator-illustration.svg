@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="500" viewBox="0 0 680 500" role="img" >
+ <defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142D88"/><stop offset=".40" stop-color="#087DDF"/><stop offset=".76" stop-color="#16DEEE"/><stop offset="1" stop-color="#1470CF"/></linearGradient>
+ <linearGradient id="h" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#0A1638"/><stop offset=".52" stop-color="#1457BE"/><stop offset="1" stop-color="#67F9EF"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152A4E"/><stop offset="1" stop-color="#071325"/></linearGradient>
+ <linearGradient id="whitegrad" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F6FCFF"/><stop offset="1" stop-color="#BACDE5"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1188FC" stop-opacity=".35"/><stop offset=".48" stop-color="#1366D8" stop-opacity=".11"/><stop offset="1" stop-color="#0B1531" stop-opacity="0"/></radialGradient>
+ <radialGradient id="halocyan"><stop stop-color="#1CE7E9" stop-opacity=".22"/><stop offset="1" stop-color="#1CE7E9" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M 45 0 L 0 0 0 45" fill="none" stroke="#9EC7FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#90D6FF" opacity=".28"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12"/></filter>
+ 
+ </defs>
+ <rect width="680" height="500" rx="24" fill="#0B1930"/><ellipse cx="510" cy="220" rx="310" ry="270" fill="url(#halo)"/><rect x="85" y="85" width="510" height="315" rx="17" fill="#0E1D36" stroke="#42608A" stroke-width="1.25" opacity="1"/><rect x="85" y="85" width="510" height="47" rx="17" fill="#142747"/><path d="M85,130 H595" stroke="#365471"/><circle cx="109" cy="108" r="4" fill="#1DD7EB" opacity=".9"/><circle cx="125" cy="108" r="4" fill="#3B8CF7" opacity=".9"/><circle cx="141" cy="108" r="4" fill="#7DA0C9" opacity=".9"/><text x="188" y="113" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.9" fill="#9BB9DA" >ESTIMATE / SYSTEM</text>
+<rect x="115" y="169" width="205" height="198" rx="11" fill="#0F2948" stroke="#35638C"/>
+<rect x="347" y="169" width="210" height="81" rx="11" fill="#123353" stroke="#35638C"/>
+<rect x="347" y="266" width="210" height="101" rx="11" fill="#123353" stroke="#35638C"/>
+<circle cx="157" cy="215" r="14" fill="#1FD1E5"/><path d="M151 215l5 5 9-11" stroke="#061932" stroke-width="3" fill="none"/>
+<rect x="184" y="208" width="104" height="12" rx="5" fill="#448EC0"/>
+<rect x="138" y="265" width="146" height="8" rx="4" fill="#34688D"/>
+<rect x="138" y="288" width="116" height="8" rx="4" fill="#34688D"/>
+<rect x="138" y="324" width="93" height="21" rx="5" fill="url(#g)"/>
+<rect x="366" y="193" width="80" height="8" rx="4" fill="#448EC0"/>
+<rect x="366" y="218" width="155" height="12" rx="6" fill="#31DAE9"/>
+<path d="M370 336h161" stroke="#3E739D"/>
+<rect x="370" y="293" width="117" height="12" rx="6" fill="#2EDDE8"/>
+
+ </svg>

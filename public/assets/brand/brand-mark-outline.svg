@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="365" height="274" viewBox="0 0 365 274" role="img" >
+ <defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142D88"/><stop offset=".40" stop-color="#087DDF"/><stop offset=".76" stop-color="#16DEEE"/><stop offset="1" stop-color="#1470CF"/></linearGradient>
+ <linearGradient id="h" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#0A1638"/><stop offset=".52" stop-color="#1457BE"/><stop offset="1" stop-color="#67F9EF"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152A4E"/><stop offset="1" stop-color="#071325"/></linearGradient>
+ <linearGradient id="whitegrad" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F6FCFF"/><stop offset="1" stop-color="#BACDE5"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1188FC" stop-opacity=".35"/><stop offset=".48" stop-color="#1366D8" stop-opacity=".11"/><stop offset="1" stop-color="#0B1531" stop-opacity="0"/></radialGradient>
+ <radialGradient id="halocyan"><stop stop-color="#1CE7E9" stop-opacity=".22"/><stop offset="1" stop-color="#1CE7E9" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M 45 0 L 0 0 0 45" fill="none" stroke="#9EC7FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#90D6FF" opacity=".28"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12"/></filter>
+ 
+ </defs>
+ <title>Craft Tech Labs monogram outline</title><path d="M 231 117 L 230 256 L 362 257 L 319 225 L 267 221 L 267 118 Z M 66 96 L 64 100 L 171 103 L 171 254 L 175 257 L 214 257 L 215 107 L 219 102 L 282 101 L 300 82 L 310 65 L 120 65 Z M 120 2 L 4 69 L 2 77 L 3 207 L 114 271 L 149 256 L 153 251 L 42 185 L 42 93 L 119 47 L 196 47 Z" fill="none" stroke="#22D9F1" stroke-width="5" stroke-linejoin="round" fill-rule="evenodd"/>
+ </svg>

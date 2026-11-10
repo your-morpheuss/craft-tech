@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="890" viewBox="0 0 1300 890" role="img" >
+ <defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142D88"/><stop offset=".40" stop-color="#087DDF"/><stop offset=".76" stop-color="#16DEEE"/><stop offset="1" stop-color="#1470CF"/></linearGradient>
+ <linearGradient id="h" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#0A1638"/><stop offset=".52" stop-color="#1457BE"/><stop offset="1" stop-color="#67F9EF"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152A4E"/><stop offset="1" stop-color="#071325"/></linearGradient>
+ <linearGradient id="whitegrad" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F6FCFF"/><stop offset="1" stop-color="#BACDE5"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1188FC" stop-opacity=".35"/><stop offset=".48" stop-color="#1366D8" stop-opacity=".11"/><stop offset="1" stop-color="#0B1531" stop-opacity="0"/></radialGradient>
+ <radialGradient id="halocyan"><stop stop-color="#1CE7E9" stop-opacity=".22"/><stop offset="1" stop-color="#1CE7E9" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M 45 0 L 0 0 0 45" fill="none" stroke="#9EC7FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#90D6FF" opacity=".28"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12"/></filter>
+ 
+ </defs>
+ <rect width="1300" height="890" fill="#081424"/><ellipse cx="770" cy="360" rx="535" ry="475" fill="url(#halo)"/>
+<g transform="translate(110 92)">
+<rect x="72" y="70" width="1010" height="565" rx="27" fill="#061223" stroke="#397EB9" stroke-width="2"/>
+<rect x="88" y="86" width="978" height="533" rx="18" fill="#0C1D35"/>
+<rect x="88" y="86" width="978" height="60" rx="18" fill="#142B49"/>
+<path d="M88 144H1066" stroke="#3E6587"/>
+<circle cx="124" cy="116" r="6" fill="#25D9EB"/>
+<text x="144" y="122" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5" fill="#E9F5FF" >CRAFT TECH LABS  /  RETAIL POS</text>
+<rect x="105" y="162" width="200" height="435" rx="12" fill="#0B1729" stroke="#274464"/>
+<rect x="125" y="190" width="124" height="11" rx="5" fill="#249EDE"/>
+<rect x="125" y="235" width="153" height="30" rx="8" fill="#163D62"/>
+<rect x="125" y="281" width="137" height="10" rx="5" fill="#2E5E85"/>
+<rect x="125" y="313" width="114" height="10" rx="5" fill="#2E5E85"/>
+<rect x="125" y="345" width="126" height="10" rx="5" fill="#2E5E85"/>
+<rect x="325" y="162" width="721" height="435" rx="12" fill="#0D203B" stroke="#294B6A"/>
+<rect x="349" y="193" width="294" height="27" rx="9" fill="#1F466D"/>
+<rect x="349" y="243" width="208" height="137" rx="13" fill="#142E4D" stroke="#36638C"/>
+<rect x="575" y="243" width="208" height="137" rx="13" fill="#142E4D" stroke="#36638C"/>
+<rect x="803" y="243" width="219" height="137" rx="13" fill="#142E4D" stroke="#36638C"/>
+<rect x="349" y="403" width="673" height="159" rx="13" fill="#132B47" stroke="#315A81"/>
+<path d="M375 520L448 475L525 501L596 445L675 476L748 431L837 475L917 444L996 457" fill="none" stroke="url(#g)" stroke-width="5" stroke-linejoin="round"/>
+<path d="M375 535H997" stroke="#3B617B" opacity=".6"/>
+<circle cx="448" cy="475" r="6" fill="#2CDBEE"/><circle cx="748" cy="431" r="7" fill="#24CDEE"/>
+</g>
+<text x="185" y="820" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#9CC3E1" >ILLUSTRATIVE UI CONCEPT — NOT ACTUAL PRODUCT SCREENSHOT</text>
+ </svg>
